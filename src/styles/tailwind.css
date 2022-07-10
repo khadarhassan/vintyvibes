@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.zoom {
+  position: absolute;
+  transform-origin: 0 0;
+  transition: transform 330ms ease-in-out;
+}
