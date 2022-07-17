@@ -36,6 +36,3 @@ yarn-error.log*
 # vscode
 .history
 .vscode
-
-#sanity
-/studio/node_modules
